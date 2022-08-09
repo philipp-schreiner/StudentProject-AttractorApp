@@ -10,3 +10,11 @@ solving such equations, some of which are featured in this app. Those can be com
 and the timestep for the solvers can be adjusted with a slider to get a feeling of how important the right timestep is when 
 solving differential equations. The solvers can also be compared in terms of average calculation speed (for one timestep) and
 estimated local error occurred during this calculation.
+
+Required packages:
+* `PyQt5`
+* `vispy`
+* `matplotlib`
+* `numpy`
+
+![](screenshot.jpg)
